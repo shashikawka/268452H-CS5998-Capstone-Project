@@ -32,7 +32,7 @@ operational state variables.The dataset is not stored directly in this repositor
 - [x] Initial data understanding completed
 - [x] Initial exploratory data analysis completed
 - [x] Documented failure periods verified against the dataset
-- [ ] Project Definition
+- [x] Project Definition
 - [ ] Data preprocessing and feature engineering
 - [ ] Baseline anomaly detection model
 - [ ] Improved anomaly detection model
