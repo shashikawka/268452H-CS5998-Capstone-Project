@@ -3,9 +3,9 @@ import pandas as pd
 from pathlib import Path
 import plotly.graph_objects as go
 
-# --------------------------------------------------
+# -----------------------------------------------------
 # Load saved model evaluation results
-# --------------------------------------------------
+# -----------------------------------------------------
 
 DATA_DIR = Path(__file__).resolve().parent / "data"
 
